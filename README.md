@@ -25,3 +25,5 @@ This project aims to design and develop an enterprise-level subsystem that suppo
 |------|----------------------|---------|
 | **10 Dec 2025** |  Discussed tasks for Chapter 1 and 2 and assigned work to 5 group members.  | Task distribution completed; target to finish both chapters by 24 Dec 2025. |
 | **11 Dec 2025** |  Identified the entities, relationships, and data required for the Subject Registration Enhancement Module.  |  Initial data structure prepared; outputs to be reviewed with other groups to identify shared core tables.  |
+| **13 Dec 2025** |  Sub-Module Assignment & Role Definition for Subject Registration Enhancement Module (Group 1).  | Team roles assigned to the 5 mandated sub-modules: Brendan (Course Catalogue Browser), Neo (Timetable Conflict Checker), Sabrina (Credit Hour Validator), Gui (Add/Drop Application Form), and Woo (Add/Drop Approval Workflow). |
+
