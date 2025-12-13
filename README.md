@@ -6,7 +6,7 @@ This project aims to design and develop an enterprise-level subsystem that suppo
 (database, web framework, and system modelling tools) to ensure a scalable and efficient academic management solution.
 
 # 📘 Logbook   
-**Topic:** Project - Subject Registration & Academic Advising 
+**Topic:** Project - Subject Registration & Academic Advising   
 **Course:** SECP3744 — Enterprise Systems Design & Modelling  
 **Repository:** `ESDM_G1_PROJECT`  
 **Duration:** 10 Dec 2025 – 14 Jan 2026  
