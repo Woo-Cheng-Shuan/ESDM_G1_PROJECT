@@ -5,7 +5,7 @@ This repo is created for SECP3623 Project - Subject Registration & Academic Advi
 This project aims to design and develop an enterprise-level subsystem that supports university subject registration and academic advising processes.  The system improves course planning, reduces registration errors, and enhances communication between students and academic advisors. It applies Enterprise Architecture principles, integrates data across academic units, and uses modern technologies 
 (database, web framework, and system modelling tools) to ensure a scalable and efficient academic management solution.
 
-# 📘 Logbook — Technical Report  
+# 📘 Logbook   
 **Topic:** Project - Subject Registration & Academic Advising 
 **Course:** SECP3744 — Enterprise Systems Design & Modelling  
 **Repository:** `ESDM_G1_PROJECT`  
