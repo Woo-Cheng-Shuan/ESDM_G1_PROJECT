@@ -11,6 +11,7 @@ This project aims to design and develop an enterprise-level subsystem that suppo
 **Repository:** `ESDM_G1_PROJECT`  
 **Duration:** 10 Dec 2025 – 14 Jan 2026
 **Author(s):** 
+
 - Brendan Chia Yan Fei (yan04@graduate.utm.my)
 - Gui Kah Sin (guisin@graduate.utm.my)
 - Neo Li Xin (neoxin@graduate.utm.my)
