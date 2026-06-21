@@ -5,6 +5,14 @@ This repo is created for SECP3623 Project - Subject Registration Enhancement Mod
 This project aims to design and develop an enterprise-level subsystem that supports university subject registration process.  The system improves course planning, reduces registration errors, and enhances communication between students and academic advisors. It applies Enterprise Architecture principles, integrates data across academic units, and uses modern technologies 
 (database, web framework, and system modelling tools) to ensure a scalable and efficient academic management solution.
 
+## 🚀 Project Resources
+
+| Resource | Link |
+|----------|------|
+| 🎨 Figma Prototype | https://www.figma.com/design/XZ2XGueDT8EJcokv54RF7y/Learning-Management-system-Dash-Board--Community-?node-id=0-1&p=f&t=3NE9ESYeKxZFQucC-0 |
+| 🎥 Video Presentation | https://youtu.be/UlOlYxujoSo |
+| 📂 GitHub Repository | https://github.com/Woo-Cheng-Shuan/ESDM_G1_PROJECT |
+
 # 📘 Logbook   
 **Topic:** Project - Subject Registration Enhancement Module of the UTHM Case Study   
 **Course:** SECP3744 — Enterprise Systems Design & Modelling  
